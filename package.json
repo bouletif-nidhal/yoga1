@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.1.1",
+    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "aos": "^2.3.4",
+    "core-js": "^3.8.3",
+    "vue": "^2.6.14",
+    "vue-mq": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/sass": "^1.43.1",
+    "@types/sass-loader": "^8.0.3",
+    "@types/webpack": "^5.28.0",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.51.0",
+    "sass-loader": "^12.6.0",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.72.1"
+  }
+}
